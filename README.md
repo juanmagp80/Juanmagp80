@@ -1,5 +1,5 @@
 ### Hi, My name is Juanma 👋
-<img src="https://postimg.cc/14NHrkW4/b0bcea40"><!--
+<img src="https://postimg.cc/14NHrkW4"><!--
 **juanmagp80/Juanmagp80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
