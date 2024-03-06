@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Juanma 👋</h1>
 </div>
-<img src="https://freeimage.host/i/JVTiyRS">
+<img src="https://imgur.com/0dqdq3m">
 
 
 ## About Me
