@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Juanma 👋</h1>
 </div>
-![me](/picture.png)
-
+<image src="/picture.jpg" alt="Descripción de la imagen">
 
 ## About Me
 
