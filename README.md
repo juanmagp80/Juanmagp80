@@ -22,7 +22,8 @@ Soy un desarrollador apasionado por la tecnología. Me encanta trabajar con Reac
 
 ## 📊 Estadísticas de GitHub
 
-https://github-readme-stats.vercel.app/api?username=juanmagp80&show_icons=true&theme=radical
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanmagp80&show_icons=true&theme=radical)
+
 
 ## 🚀 Actividad reciente
 
