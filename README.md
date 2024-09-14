@@ -1,11 +1,21 @@
-<div align="center">
-<h1 align="center">Hi, I'm Juanma 👋</h1>
-</div>
-<div> 
-<img src="./picture.png" alt="imagen">
-<h2>About Me</h2>
-</div>  
+# ¡Hola! 👋 Soy Juanma
 
-- ⭐ Full Stack Web Developer ⭐ 
+Soy un desarrollador apasionado por la tecnología. Me encanta trabajar con React, Astro y Angular y construir proyectos que me apasionen. Aquí encontrarás algunos de mis trabajos recientes y proyectos en los que estoy trabajando actualmente.
 
-<br>
+## Mis tecnologías favoritas
+- React
+- React Native
+- Astro
+- Angular
+- NextJS
+- NodeJs
+- PostGreSQL
+
+
+## Proyectos destacados
+- Web del canal El 10 del Barça: https://10barca.vercel.app/
+- Web para Farmacia: https://farmaciasantamaria.vercel.app/
+
+## Conéctate conmigo
+- LinkedIn: https://www.linkedin.com/in/jmgpdev/
+- PortFolio: https://portfolio-juangpdev.vercel.app/
