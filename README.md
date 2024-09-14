@@ -19,3 +19,11 @@ Soy un desarrollador apasionado por la tecnología. Me encanta trabajar con Reac
 ## Conéctate conmigo
 - LinkedIn: https://www.linkedin.com/in/jmgpdev/
 - PortFolio: https://portfolio-juangpdev.vercel.app/
+
+## 📊 Estadísticas de GitHub
+
+https://github-readme-stats.vercel.app/api?username=juanmagp80&show_icons=true&theme=radical
+
+## 🚀 Actividad reciente
+
+https://github-readme-activity-graph.cyclic.app/graph?username=juanmagp80&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph
