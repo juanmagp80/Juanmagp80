@@ -28,7 +28,4 @@ Soy un desarrollador apasionado por la tecnología. Me encanta trabajar con Reac
 
 
 
-## 🚀 Actividad reciente
-
-[![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=juanmagp80&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
