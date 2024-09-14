@@ -24,7 +24,11 @@ Soy un desarrollador apasionado por la tecnología. Me encanta trabajar con Reac
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juanmagp80&show_icons=true&theme=radical)
 
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=juanmagp80&layout=compact&theme=radical)
+
+
 
 ## 🚀 Actividad reciente
 
-https://github-readme-activity-graph.cyclic.app/graph?username=juanmagp80&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph
+[![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=juanmagp80&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
