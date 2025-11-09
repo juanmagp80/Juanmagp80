@@ -13,6 +13,8 @@ Soy un desarrollador apasionado por la tecnología. Me encanta trabajar con Reac
 
 
 ## Proyectos destacados
+- Saas api routing inteligente para selección de modelo de IA: https://roulyx.com/
+- Saas CRM enfocado en Freelancers: https://www.taskelio.app/ en desarrollo
 - Web del canal El 10 del Barça: https://10barca.vercel.app/
 - Web para Farmacia: https://farmaciasantamaria.vercel.app/
 
